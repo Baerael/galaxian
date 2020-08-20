@@ -1,7 +1,5 @@
-// Name: Ben Pratte
 // File: main.cpp
-//
-//
+
 // system includes
 #include <iostream>
 #include <cmath>
